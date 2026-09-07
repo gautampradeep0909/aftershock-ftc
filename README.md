@@ -1,4 +1,5 @@
-This website
+
+
 
 The Aftershock website shares our team, robot, season progress, competition results, and ways to support our program.
 
