@@ -1,6 +1,6 @@
 This website
 
-The Aftershock website shares our team, robot, season progress, competition results, and ways to support our program. It also gives families, schools, and community members a look at the work behind an FTC season.
+The Aftershock website shares our team, robot, season progress, competition results, and ways to support our program.
 
 Visit the website: aftershock-ftc-31697.pradeepunair.chatgpt.site
 
